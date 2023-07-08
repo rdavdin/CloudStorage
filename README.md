@@ -1,10 +1,12 @@
-This project is as a last assignment of the course Spring Boot Basics. It covers all subjects of the course.
+This project is as a last assignment of the course Spring Boot Basics, which is a course of the Nanodegree [Java Web Developer - Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035). 
+
+This is a web-based personal storage application. It covers all subjects of the course.
 
 1. The back-end with Spring Boot
 
    -  Managing user access with **Spring Security**
    -  Handling user requests with **Controller**
-   -  Making calls to the database with **MyBatis** Mappers
+   -  Using **H2** as an in-memory database to store user data with **MyBatis**
 
 2. The front-end with **Thymeleaf**
 
