@@ -1,6 +1,17 @@
-This project is as a last assignment of the course Spring Boot Basics, which is a course of the Nanodegree [Java Web Developer - Udacity](https://www.udacity.com/course/java-developer-nanodegree--nd035). 
+# Individual Storage
 
-This is a web-based personal storage application. It covers all subjects of the course.
+This is a web-based personal storage application. 
+
+### Purposes
+
+- Understand how to organize source code according to multi-tier architecture or onion architecture
+- Apply Hashing, Salting, and Encryption in appropriate contexts
+- Use packages: Spring MVC, MyBatis ORM, Spring Security, Thymeleaf, etc.
+
+
+
+
+### Requirements
 
 1. The back-end with Spring Boot
 
@@ -35,3 +46,7 @@ This is a web-based personal storage application. It covers all subjects of the 
 3. Application tests with **Selenium** 
 
 **The detail of requirement [READ HERE](./requirement.md)**
+
+### Results
+
+- The app is deployed [here](http://159.65.133.69/drive)
